@@ -37,10 +37,7 @@ To run it in Vivado:
 
 Below is the simulation waveform showing `clk`, `rst`, `tx_start`, `data_in`, `txrx`, `tx_busy`, `rx_out`, and `rx_done`:
 
-![UART Waveform](![![Uploading image.png…](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7b17a7f9-ea65-49cd-acd4-0d7e7c8d2456" />
-)
-]()
-)
+![UART Waveform](![![Uploading image.png…](Screenshot 2026-09-19 002716.png)
 
 ## Status
 
